@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="LinkedIn_Banner.png" alt="Siddhesh Kulkarni Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Siddhesh Kulkarni</h1>
 <h3 align="center">A passionate full-stack developer from Solapur, India 🇮🇳</h3>
