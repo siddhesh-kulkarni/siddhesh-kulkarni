@@ -5,9 +5,9 @@
 ---
 
 👨‍💻 **About Me**
-- 🔭 I’m currently working on: **Satellite visualization & 3D web development**
-- 🌱 I’m learning: **React Native**, **MongoDB**, and **API integrations**
-- 💼 Currently interning at: **Codeworld Infotech** (PHP, CodeIgniter)
+- 🌱 I’m learning: **Express**, **Node.js**, and **AWS deployment**
+- 💼 I have skills in: **React**, **React Native**, **API development**, **PHP**, **JavaScript**, **Angular**, and **MongoDB**
+- 💼 Completed Internship at: **Code World Infotech** (PHP, CodeIgniter, React)
 - ⚡ Fun fact: I love turning code into real-world solutions 🚀
 
 ---
@@ -23,6 +23,8 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
 ---
 
@@ -46,6 +48,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-kulkarni-39a015266)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:siddheshsanjaykulkarni@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sid_coolkarni_0911/)
 
 ---
 
