@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Kulkarni</h1>
 <h3 align="center">A passionate full-stack developer from Solapur, India 🇮🇳</h3>
 
-
 👨‍💻 **About Me**
 - 🌱 I’m learning: **Express**, **Node.js**, and **AWS deployment**
 - 💼 I have skills in: **React**, **React Native**, **API development**, **PHP**, **JavaScript**, **Angular**, and **MongoDB**
@@ -46,7 +45,6 @@
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:siddheshsanjaykulkarni@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sid_coolkarni_0911/)
 
----
 
 📊 **GitHub Stats**
 ![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhesh-kulkarni&show_icons=true&theme=radical)
