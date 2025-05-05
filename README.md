@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Kulkarni</h1>
 <h3 align="center">A passionate full-stack developer from Solapur, India 🇮🇳</h3>
 
----
 
 👨‍💻 **About Me**
 - 🌱 I’m learning: **Express**, **Node.js**, and **AWS deployment**
@@ -13,7 +12,6 @@
 - 💼 Completed Internship at: **Code World Infotech** (PHP, CodeIgniter, React)
 - ⚡ Fun fact: I love turning code into real-world solutions 🚀
 
----
 
 🛠️ **Tech Stack**
 
@@ -29,8 +27,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
----
-
 📂 **Featured Projects**
 
 - 🎯 **Easy Satellite App**  
@@ -39,13 +35,10 @@
 - 🧑‍💼 **Developer Portfolio Website**  
   Built with React to showcase my skills, projects, and resume. Features GitHub and LinkedIn integration.
 
----
 
 🏆 **Achievements**
 - 🥈 2nd Place – Dexter National Programming Competition, PAH Solapur University (2024)
 - 🥈 2nd Place – Research Paper Presentation – International Conference, Vijaypur (2023)
-
----
 
 📫 **Let's Connect**
 
