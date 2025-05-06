@@ -47,4 +47,13 @@
 
 
 📊 **GitHub Stats**
+
 ![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhesh-kulkarni&show_icons=true&theme=radical)
+
+### Current Streak
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-kulkarni&theme=radical)
+
+### Max Streak
+
+![Max Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-kulkarni&count_private=true&theme=radical)
