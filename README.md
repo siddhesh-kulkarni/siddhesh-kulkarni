@@ -50,11 +50,10 @@
 
 ![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhesh-kulkarni&show_icons=true&theme=radical)
 
-🔥 **GitHub Streak Stats**
+### Current Streak
 
-[![Current Streak](https://github-readme-streak-stats.herokuapp.com?user=siddhesh-kulkarni&theme=radical&hide_border=false)](https://git.io/streak-stats)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-kulkarni&theme=radical)
 
+### Max Streak
 
-📈 **Top Languages**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-kulkarni&layout=compact&theme=radical)
+![Max Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-kulkarni&count_private=true&theme=radical)
