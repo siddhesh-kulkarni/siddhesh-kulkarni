@@ -45,15 +45,9 @@
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:siddheshsanjaykulkarni@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sid_coolkarni_0911/)
 
-
-📊 **GitHub Stats**
-
+**GitHub Stats**
 ![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhesh-kulkarni&show_icons=true&theme=radical)
-
 ### Current Streak
-
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-kulkarni&theme=radical)
-
 ### Max Streak
-
-![Max Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-kulkarni&count_private=true&theme=radical)
+![Max Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh-kulkarni&type=max&theme=radical)
