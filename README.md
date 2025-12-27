@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Siddhesh Kulkarni</h1>
-<h3 align="center">A passionate full-stack developer from Solapur, India 🇮🇳</h3>
+<h3 align="center">A passionate FullStack developer from Solapur, India 🇮🇳</h3>
 
 👨‍💻 **About Me**
 - 🌱 I’m learning: **Express**, **Node.js**, and **AWS deployment**
-- 💼 I have skills in: **React**, **React Native**, **API development**, **PHP**, **JavaScript**, **Angular**, and **MongoDB**
+- 💼 I have skills in: **React**, **Nextjs**, **React Native**, **API development**, **PHP**, **JavaScript**, **Angular**, and **MongoDB**
 - 💼 Completed Internship at: **Code World Infotech** (PHP, CodeIgniter, React)
 - ⚡ Fun fact: I love turning code into real-world solutions 🚀
 
