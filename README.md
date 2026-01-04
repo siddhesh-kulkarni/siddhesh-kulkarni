@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Siddhesh Kulkarni</h1>
-<h3 align="center">A passionate FullStack developer from Solapur, India 🇮🇳</h3>
+<h3 align="center">A passionate FullStack developer from Solapur, India</h3>
 
 👨‍💻 **About Me**
 - 🌱 I’m learning: **Express**, **Node.js**, and **AWS deployment**
