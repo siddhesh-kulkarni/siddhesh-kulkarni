@@ -1,0 +1,12 @@
+# Ignore non-source files
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+
+# Ignore build & config noise
+dist/* linguist-vendored
+build/* linguist-vendored
+node_modules/* linguist-vendored
+*.lock linguist-vendored
+
+# Ignore minified files
+*.min.js linguist-vendored
