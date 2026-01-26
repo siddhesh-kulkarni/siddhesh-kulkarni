@@ -16,6 +16,7 @@
 🛠️ **Tech Stack**
 
 🛠️ **Tech Stack**
+🛠️ **Tech Stack**
 
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -33,14 +34,15 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+### 🗄️ Databases (Local + Cloud)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20(Neon)-336791?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?logo=mongodb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
-### ☁️ Cloud & Dev Tools
+### ☁️ Cloud, Hosting & Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat)
@@ -65,7 +67,11 @@
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:siddheshsanjaykulkarni@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sid_coolkarni_0911/)
 
+###
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-kulkarni&layout=compact&theme=radical&hide=css,html)
+###
+
+
 **GitHub Stats**
 ![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhesh-kulkarni&show_icons=true&theme=radical&hide=css,html&count_private=true)
 ### Current Streak
