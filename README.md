@@ -53,6 +53,10 @@
 - 🧑‍💼 **Developer Portfolio Website**  
   Built with React to showcase my skills, projects, and resume. Features GitHub and LinkedIn integration.
 
+-🌱 GrowGrape AI (Client Project)
+Developed and deployed a modern website for GrowGrape AI. Built with React and hosted on Netlify.
+Live Site
+
 
 🏆 **Achievements**
 - 🥈 2nd Place – Dexter National Programming Competition, PAH Solapur University (2024)
