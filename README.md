@@ -68,10 +68,6 @@ Live Site
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:siddheshsanjaykulkarni@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sid_coolkarni_0911/)
 
-###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-kulkarni&layout=compact&theme=radical&hide=css,html)
-###
-
 
 **GitHub Stats**
 ![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhesh-kulkarni&show_icons=true&theme=radical&hide=css,html&count_private=true)
