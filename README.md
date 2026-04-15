@@ -6,7 +6,7 @@
 <h3 align="center">A passionate FullStack developer from Solapur, India</h3>
 
 👨‍💻 **About Me**
-- 🌱 I’m learning: **DSA**, **ONDC**, and **AWS deployment**
+- 🌱 I’m learning: **DSA**, **ONDC**, and **AWS**
 - 💼 I have skills in: **React.js**, **Next.js**, **Node.js**, **Express.js**, **React Native**, **API development**, **PHP**, **JavaScript**, **Angular**, and **MongoDB**
 - 💼 Completed Internship at: **Code World Infotech** (PHP, CodeIgniter, React)
 - ⚡ Fun fact: I love turning code into real-world solutions 🚀
